@@ -21,5 +21,6 @@
 |  Hockey     |    Enhance mental health                  |   1 hour    |
 
 ## Quotes for life
-> Life is like riding a bicycle.To keep your balance,you must keep moving
-> Everything is theoretically impossible,until it is done.
+> Life is like riding a bicycle.To keep your balance,you must keep moving - **Albert Einstein**
+>
+> Everything is theoretically impossible,until it is done - **Robert A, Heinlein**
